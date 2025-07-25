@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\P1000.dir/objects.a
+C:\mingw64(clion)\bin\ar.exe cr CMakeFiles\P1000.dir/objects.a @CMakeFiles\P1000.dir\objects1.rsp
+C:\mingw64(clion)\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\P1000.dir/objects.a -Wl,--no-whole-archive -o P1000.exe -Wl,--out-implib,libP1000.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\P1000.dir\linklibs.rsp

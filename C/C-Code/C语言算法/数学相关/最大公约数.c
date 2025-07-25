@@ -1,0 +1,14 @@
+/*
+
+思路：辗转相除法
+
+*/
+
+int gcd(int a, int b)
+{
+    if (b == 0)
+    {
+        return a;
+    }
+    return gcd(b, a % b);
+}

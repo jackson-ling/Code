@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Chapter_3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter_3">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Chapter_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter_3"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter_3/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Chapter_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter_3/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5719">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5719.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5719"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5719/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5719.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5719/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1089wa">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1089wa.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1089wa"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1089wa/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1089wa.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1089wa/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1908">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1908.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1908"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1908/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1908.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1908/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1009">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1009.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1009"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1009/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1009.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1009/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5720">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5720.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5720"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5720/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5720.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5720/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1035">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1035.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1035"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1035/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1035.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1035/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5721">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5721.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5721"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5721/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5721.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5721/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5722">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5722.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5722"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5722/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5722.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5722/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5723">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5723.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5723"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5723/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5723.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5723/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1217">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1217.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1217"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1217/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1217.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1217/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1423">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1423.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1423"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1423/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1423.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1423/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1307">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1307.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1307"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1307/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1307.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1307/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1720">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1720.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1720"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1720/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1720.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1720/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5724">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5724.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5724"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5724/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5724.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5724/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1420">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1420.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1420"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1420/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1420.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1420/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5725">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5725.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5725"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5725/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5725.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5725/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1075">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1075.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1075"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1075/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1075.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1075/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5726">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5726.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5726"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P5726/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P5726.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P5726/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P4956">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P4956.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P4956"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P4956/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P4956.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P4956/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1089">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1089.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1089"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1089/fast">
+				<Option output="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/P1089.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64(clion)/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 P1089/fast"/>
+					<CompileFile command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64(clion)/bin/mingw32-make.exe -f &quot;C:/Users/jackson/Desktop/luogu/Chapter 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P1009wa.c">
+			<Option target="P1009"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P1035.c">
+			<Option target="P1035"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P1075wa.c">
+			<Option target="P1075"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P1089wa.c">
+			<Option target="P1089wa"/>
+			<Option target="P1089"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P1217.c">
+			<Option target="P1217"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P1307.c">
+			<Option target="P1307"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P1420.c">
+			<Option target="P1420"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P1423.c">
+			<Option target="P1423"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P1720.c">
+			<Option target="P1720"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P1908.c">
+			<Option target="P1908"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P4956.c">
+			<Option target="P4956"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P5718.c">
+			<Option target="Chapter_3"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P5719.c">
+			<Option target="P5719"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P5720.c">
+			<Option target="P5720"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P5721.c">
+			<Option target="P5721"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P5722.c">
+			<Option target="P5722"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P5723.c">
+			<Option target="P5723"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P5724.c">
+			<Option target="P5724"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P5725.c">
+			<Option target="P5725"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/P5726.c">
+			<Option target="P5726"/>
+		</Unit>
+		<Unit filename="C:/Users/jackson/Desktop/luogu/Chapter 3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

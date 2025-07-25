@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\P5717wa.dir/objects.a
+C:\mingw64(clion)\bin\ar.exe cr CMakeFiles\P5717wa.dir/objects.a @CMakeFiles\P5717wa.dir\objects1.rsp
+C:\mingw64(clion)\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\P5717wa.dir/objects.a -Wl,--no-whole-archive -o P5717wa.exe -Wl,--out-implib,libP5717wa.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\P5717wa.dir\linklibs.rsp

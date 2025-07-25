@@ -1,0 +1,24 @@
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir
+<<<<<<< HEAD
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/B2025.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P5703.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P1000.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P1001.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P5704.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P5705wa.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P5706.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/practise.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P5708.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P5707.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/B2029.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P1421.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P3954.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P1425.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/B2005.dir
+=======
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P1000.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/B2025.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P1001.dir
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

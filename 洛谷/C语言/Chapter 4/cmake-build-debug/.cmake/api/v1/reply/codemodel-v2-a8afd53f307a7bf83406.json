@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chapter_4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter_4-Debug-93c73257ef3bdd0cf561.json",
+					"name" : "Chapter_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1047::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1047-Debug-ccc0de51d2355497b7f1.json",
+					"name" : "P1047",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1427::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1427-Debug-b208b9c7613dee664fc6.json",
+					"name" : "P1427",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P2550::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P2550-Debug-3d0e047a7e46811e0b23.json",
+					"name" : "P2550",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5727::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5727-Debug-ceb0dbb537e40febcee0.json",
+					"name" : "P5727",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5728::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5728-Debug-d56801c6c0700e751081.json",
+					"name" : "P5728",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5729::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5729-Debug-a2007376e6b74bf96a15.json",
+					"name" : "P5729",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-7515b3299e4c5d8cad7b.json",
+					"name" : "test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jackson/Desktop/code/luogu/C-Clion/Chapter 4/cmake-build-debug",
+		"source" : "C:/Users/jackson/Desktop/code/luogu/C-Clion/Chapter 4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

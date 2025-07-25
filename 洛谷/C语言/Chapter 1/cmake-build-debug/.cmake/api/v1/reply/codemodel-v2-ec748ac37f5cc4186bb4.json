@@ -1,0 +1,194 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chapter_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "B2005::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B2005-Debug-28d32aa461ba480e57f8.json",
+					"name" : "B2005",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B2025::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B2025-Debug-6d146362415af7ad6ed5.json",
+					"name" : "B2025",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B2029::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B2029-Debug-e1cb9c8994036e24c085.json",
+					"name" : "B2029",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter_1-Debug-96465c246eec34270ce4.json",
+					"name" : "Chapter_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1000-Debug-eedb6bc2d5f074e2a553.json",
+					"name" : "P1000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1001::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1001-Debug-9af5b99eb3dec5c1eb59.json",
+					"name" : "P1001",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1421::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1421-Debug-cbb7ccf9545a823ffd94.json",
+					"name" : "P1421",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1425::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1425-Debug-80006bac73fb8be40753.json",
+					"name" : "P1425",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P3954::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P3954-Debug-5f4976ca5f1327c4d559.json",
+					"name" : "P3954",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5703::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5703-Debug-c6de0e8bec2c1676f494.json",
+					"name" : "P5703",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5704::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5704-Debug-50c08c0bfa442a15d901.json",
+					"name" : "P5704",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5705wa::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5705wa-Debug-e2c1075a7e0fb0464594.json",
+					"name" : "P5705wa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5706::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5706-Debug-051e52fd4d9841206501.json",
+					"name" : "P5706",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5707::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5707-Debug-84003ae570146a0bc2b8.json",
+					"name" : "P5707",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5708::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5708-Debug-42c29a83d39c4afda213.json",
+					"name" : "P5708",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practise::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practise-Debug-9ce9c5428ebc3d33bc9b.json",
+					"name" : "practise",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug",
+		"source" : "C:/Users/jackson/Desktop/luogu/Chapter 1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
