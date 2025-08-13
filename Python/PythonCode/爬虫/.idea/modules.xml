@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../尚硅谷课程资料/尚硅谷爬虫/代码/.idea/代码.iml" filepath="$PROJECT_DIR$/../../../../尚硅谷课程资料/尚硅谷爬虫/代码/.idea/代码.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/爬虫.iml" filepath="$PROJECT_DIR$/.idea/爬虫.iml" />
     </modules>
   </component>
