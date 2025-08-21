@@ -1,0 +1,53 @@
+# Project: dspt2025
+# Makefile created by Dev-C++ 6.7.5
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = obj/cfgfile.o obj/cmd.o obj/linklist.o obj/main.o obj/oncmd.o obj/queue.o obj/sqlist.o obj/util.o obj/log.o
+LINKOBJ  = obj/cfgfile.o obj/cmd.o obj/linklist.o obj/main.o obj/oncmd.o obj/queue.o obj/sqlist.o obj/util.o obj/log.o
+LIBS     = -L"D:/Program Files (x86)/Dev-Cpp/MinGW32/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW32/mingw32/lib" -static
+INCS     = -I"d:/program files (x86)/dev-cpp/mingw32/lib/gcc/mingw32/9.2.0/include" -I"d:/program files (x86)/dev-cpp/mingw32/include" -I"d:/program files (x86)/dev-cpp/mingw32/lib/gcc/mingw32/9.2.0/include-fixed"
+CXXINCS  = -I"d:/program files (x86)/dev-cpp/mingw32/lib/gcc/mingw32/9.2.0/include/c++" -I"d:/program files (x86)/dev-cpp/mingw32/lib/gcc/mingw32/9.2.0/include/c++/mingw32" -I"d:/program files (x86)/dev-cpp/mingw32/lib/gcc/mingw32/9.2.0/include/c++/backward" -I"d:/program files (x86)/dev-cpp/mingw32/lib/gcc/mingw32/9.2.0/include" -I"d:/program files (x86)/dev-cpp/mingw32/include" -I"d:/program files (x86)/dev-cpp/mingw32/lib/gcc/mingw32/9.2.0/include-fixed"
+BIN      = dspt2025.exe
+CXXFLAGS = $(CXXINCS) 
+ENCODINGS = -finput-charset=utf-8 -fexec-charset=gbk
+CFLAGS   = $(INCS) 
+RM       = del /q /f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "$(BIN)" $(LIBS)
+
+obj/cfgfile.o: ../src/cfgfile.cpp ../src/cfgfile.h
+	$(CPP) -c ../src/cfgfile.cpp -o obj/cfgfile.o $(CXXFLAGS) 
+
+obj/cmd.o: ../src/cmd.cpp ../src/cmd.h ../src/ds.h ../src/util.h
+	$(CPP) -c ../src/cmd.cpp -o obj/cmd.o $(CXXFLAGS) 
+
+obj/linklist.o: ../src/linklist.cpp ../src/linklist.h ../src/util.h
+	$(CPP) -c ../src/linklist.cpp -o obj/linklist.o $(CXXFLAGS) 
+
+obj/main.o: ../src/main.cpp ../src/ds.h ../src/util.h
+	$(CPP) -c ../src/main.cpp -o obj/main.o $(CXXFLAGS) 
+
+obj/oncmd.o: ../src/oncmd.cpp ../src/linklist.h ../src/log.h ../src/sqlist.h ../src/util.h
+	$(CPP) -c ../src/oncmd.cpp -o obj/oncmd.o $(CXXFLAGS) 
+
+obj/queue.o: ../src/queue.cpp ../src/queue.h
+	$(CPP) -c ../src/queue.cpp -o obj/queue.o $(CXXFLAGS) 
+
+obj/sqlist.o: ../src/sqlist.cpp ../src/sqlist.h
+	$(CPP) -c ../src/sqlist.cpp -o obj/sqlist.o $(CXXFLAGS) 
+
+obj/util.o: ../src/util.cpp ../src/util.h
+	$(CPP) -c ../src/util.cpp -o obj/util.o $(CXXFLAGS) 
+
+obj/log.o: ../src/log.cpp ../src/log.h
+	$(CPP) -c ../src/log.cpp -o obj/log.o $(CXXFLAGS) 

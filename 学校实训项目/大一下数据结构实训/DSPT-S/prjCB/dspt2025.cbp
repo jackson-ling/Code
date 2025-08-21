@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="dspt2025" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/dspt2025" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/dspt2025" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../src/cfgfile.cpp" />
+		<Unit filename="../src/cfgfile.h" />
+		<Unit filename="../src/cmd.cpp" />
+		<Unit filename="../src/cmd.h" />
+		<Unit filename="../src/ds.h" />
+		<Unit filename="../src/linklist.cpp" />
+		<Unit filename="../src/linklist.h" />
+		<Unit filename="../src/main.cpp" />
+		<Unit filename="../src/oncmd.cpp" />
+		<Unit filename="../src/queue.cpp" />
+		<Unit filename="../src/queue.h" />
+		<Unit filename="../src/sqlist.cpp" />
+		<Unit filename="../src/sqlist.h" />
+		<Unit filename="../src/util.cpp" />
+		<Unit filename="../src/util.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

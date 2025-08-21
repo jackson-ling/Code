@@ -1,0 +1,23 @@
+编写思想：把不同的功能模块写在头文件中，通过调用对应模块头文件中的函数来实现不同的功能
+
+主函数入口：main_interface.cpp
+配置层函数入口：config_interface.h
+
+
+用户层
+1. 取号 +  时间计算功能：service_user.h
+2. 时间记录功能：time_service.h
+3. 使用队列来保存排队人数：queue.h
+4. 业务的暂停和恢复功能：service.h
+
+业务层
+1. 业务信息的增、改、查（使用顺序表）：sqlist_service.h
+2. 窗口信息的增、删、改、查（使用链表）：linklist_window_info.h
+
+其他
+宏定义常量：define.h
+
+文件
+service_info.txt：用来保存业务信息 + 业务的状态（开放 / 暂停）
+service_time.txt：用来保存业务的办理时间等（例：业务一	窗口二	b1	办理时间: 16.00秒）
+window_info.txt：用来保存窗口的信息 + 排队人数 + 窗口状态
